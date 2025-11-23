@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul
 
-<!--
-**Rahul-i7/Rahul-i7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CS Student | App Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I love building useful, clean, and modern software. Currently exploring:
+- 📱 Android app development  
+- ⚛️ React & TypeScript  
+- 🔧 Git, GitHub & collaborative workflows  
+- 🧠 Algorithms, DSA & problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Learning full-stack development step-by-step
+- Improving my UI/UX sense for better app design
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **Frontend:** HTML, CSS, React  
+- **Mobile:** Android (React Native)  
+- **Tools:** Git, GitHub, Figma  
+
+### 📈 My Goals
+- Become a strong full-stack/mobile developer  
+- Build real-world projects that people actually use  
+- Contribute to open-source  
+
+### 🤝 Connect with me
+If you're into tech, apps, or learning together — feel free to reach out!
+
